@@ -18,7 +18,7 @@ try:
     from urllib.request import urlopen, Request
 
     os.system(f'title Discord Token Brute force By Jank3')
-
+    discord_bruteforce()
     def discord_bruteforce():
         print(f"ID de la victima:", end=" ")
         id = input()
@@ -70,6 +70,6 @@ try:
                 discord_bruteforce()
             else:
                 discord_bruteforce()
-    discord_bruteforce()
+             
 except KeyboardInterrupt:
     print("Presionaste Ctrl + C")
