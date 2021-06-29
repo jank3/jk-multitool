@@ -3,6 +3,7 @@ try:
     import discord
     import string
     import requests as req
+    import requests 
     import datetime
     import random
     import time
