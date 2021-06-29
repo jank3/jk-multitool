@@ -1,7 +1,7 @@
 def anydeskresolver():
 	import subprocess, colorama, requests, base64, os
 
-	os.system('@title Dead$quad | Anydesk IP Resolver && cls')
+	os.system('title Anydesk IP Resolver && cls')
 
 	from colorama import Fore, Style
 
