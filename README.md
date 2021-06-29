@@ -21,6 +21,7 @@ If you have Python3 Already installed put this commands in your console:
   py -m pip install webbrowser
   py -m pip install subprocess
   py -m pip install tkinder
+  py -m pip install flask
   ```
 
 And now open jk-multitool.py
