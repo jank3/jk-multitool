@@ -27,7 +27,7 @@ If you have Python3 Already installed put this commands in your console:
 
 And now open jk-multitool.py
 
-If you have any problem installing or running it DM me Jank3#8888
+If you have any problem installing or running it DM me on discord Jank3#8888
 
 In future updates I will add the use of Proxys for better performance
 
