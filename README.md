@@ -30,3 +30,6 @@ And now open jk-multitool.py
 If you have any problem installing or running it DM me Jank3#8888
 
 In future updates I will add the use of Proxys for better performance
+
+
+I make an update because im seeing a lot of problems during install, i added to the rep an .bat that install all modules for you, only you need is to open that and before open jk-multitool.py
