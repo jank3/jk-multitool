@@ -70,6 +70,6 @@ try:
                 discord_bruteforce()
             else:
                 discord_bruteforce()
-   discord_bruteforce()
+  discord_bruteforce()
 except KeyboardInterrupt:
     print("Presionaste Ctrl + C")
