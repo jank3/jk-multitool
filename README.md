@@ -22,6 +22,7 @@ If you have Python3 Already installed put this commands in your console:
   py -m pip install subprocess
   py -m pip install tkinder
   py -m pip install flask
+  py -m pip install flask_restful
   ```
 
 And now open jk-multitool.py
