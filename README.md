@@ -1,6 +1,6 @@
 # jk-mutitool
-A Multitool with very interestings things, for educational proposes only
-Install:
+A Multitool with very interestings things, for educational proposes only. 
+
 The tool use Python3 you need it to use it
 If you have Python3 Already installed put this commands in your console: 
 ```
